@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Victor Matisic aka @Official404
+- 👋 Hi, I’m Nomi Matisic aka @OfficialNomi
 - 👀 I’m interested in graphics rendering and core engine programming
-- 🌱 I’m currently learning simd programming
+- 🌱 I’m currently learning electrical engenering and pcb design
 - 💞️ I’m looking to collaborate on anything that i can usefull for :)
-- 📫 U can reach me on my website www.victormatisic.com
+- 📫 U can reach me on my website www.nomimatisic.com
